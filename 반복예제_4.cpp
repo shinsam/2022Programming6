@@ -1,9 +1,7 @@
 #include <stdio.h>
 main(){
 	
-	printf("¿¹Á¦10---------\n");
-	
-	int i = 10;
+	int i = 11;
 	do{
 		printf("%d ", i);
 		i--;
